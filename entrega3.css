@@ -1,0 +1,47 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.nueva_clase{
+  width: 10%;
+}
+body{
+    background-color: #58111A;
+}
+img{
+  height: 100%;
+  display: flex;
+
+}
+
+td{
+  height: 100px;
+}
+
+h2{
+ text-align: center;
+ color:gray;
+}
+
+
+.precio{
+ display:block;
+ font-size:20px;
+}
+
+#carrito{
+  width: 30%; 
+  background-color: black; 
+  height: 100vh;
+}
+
+#listaProductos{
+
+width: 70%;
+}
+
+#contenedorPadre{
+
+display:flex;
+}
